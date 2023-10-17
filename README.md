@@ -42,6 +42,4 @@ This might be useful when you want to redirect requests coming into your app.
 * Add **Proxy-Target-URL** header with URL to be requested by the proxy
 * (Optional) Add **Proxy-Debug** header for debug mode
 
-In order to protect using proxy by unauthorized users, consider changing `Proxy-Auth` token by calling
-`Proxy::$AUTH_KEY = '<your-new-key>';` before `Proxy::run()`. Then change the token in all your requests.
 

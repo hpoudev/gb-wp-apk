@@ -1,4 +1,4 @@
-# Simple PHP Proxy
+# croxy proxy youtube
 
 This proxy script allows you to forward all HTTP/HTTPS requests to another server. Works for all common request types 
 including GET, POST requests with files, PATCH and PUT requests. It has minimal set of requirements 

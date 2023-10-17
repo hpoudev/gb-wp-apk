@@ -1,6 +1,6 @@
 # croxy proxy youtube
 
-croxy proxy youtube is a PHP script proxy and helps in hiding the client's identity and allows them to access resources on the server indirectly. The proxy script receives client requests and forwards them to the server then returns the server's response back. This proxy script allows you to forward all HTTP/HTTPS requests to another server. 
+croxy proxy youtube ( Specially designed for youtube access ) is a PHP script proxy and helps in hiding the client's identity and allows them to access resources on the server indirectly. The proxy script receives client requests and forwards them to the server then returns the server's response back. This proxy script allows you to forward all HTTP/HTTPS requests to another server. 
 Here are some additional details about PHP script proxies:
  
 Proxies can also be used to cache responses from the server. This can help improve performance .
